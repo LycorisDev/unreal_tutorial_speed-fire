@@ -4,7 +4,7 @@
 
 Blueprint project made following [a UE5 tutorial by Unreal Sensei](https://www.youtube.com/watch?v=1XjgLKrb4_M).  
 
-[Download the executable here.](https://mofumofustudios.itch.io/speed-fire)  
+[Download the executable here.](https://lycorisdev.itch.io/speed-fire)  
 
 ![](./ingame_screenshot.png)
 
